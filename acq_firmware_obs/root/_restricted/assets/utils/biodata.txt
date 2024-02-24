@@ -1,0 +1,14 @@
+Name:ftester
+ID:1235
+Sex:
+Age:1
+Date:12232121
+Scan Type:
+Scan Location:
+Neurological Disorders:
+How is your mood today:
+How many hours of sleep did you have last night:
+Have you consumed any form of caffeine in the last 24 hours: 
+Are you on any medications:
+Location:America
+Language:Chichenwa
