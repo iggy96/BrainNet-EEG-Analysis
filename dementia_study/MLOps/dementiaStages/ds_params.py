@@ -1,0 +1,10 @@
+fs = 500
+line_freq = 60
+highpass_freq = 0.5
+lowpass_freq = 44
+device_version = 1.0
+path_to_dataset = '/Users/joshuaighalo/Downloads/brainNet_datasets/laurel_place/cleaned_dataset/'
+scans_dir = '/Users/joshuaighalo/Documents/GitHub/eegDementia/MLOps/dementiaStages/classified_scans/'
+df_dir = '/Users/joshuaighalo/Documents/GitHub/eegDementia/MLOps/dementiaStages/dataframes/'
+delta,theta,alpha,beta,gamma = [0.5,4],[4,8],[8,13],[13,30],[30,44]
+delta_1,delta_2,theta_1,theta_2,alpha_1,alpha_2,beta_1,beta_2,gamma_1,gamma_2 = [0.5,2],[2,4],[4,6],[6,8],[8,10],[10,13],[13,20],[20,30],[30,37],[37,44]
