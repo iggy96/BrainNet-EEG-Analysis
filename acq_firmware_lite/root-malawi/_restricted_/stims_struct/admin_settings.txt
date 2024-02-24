@@ -1,0 +1,1 @@
+{"file 1": "..\\assets\\txt\\chn_1.txt", "file 2": "..\\assets\\txt\\chn_2.txt", "file 3": "..\\assets\\txt\\chn_3.txt", "time": "03:40", "tone_duration": "0.4", "isi_tone": "0.2", "word_duration": "1.0", "isi_word": "0.5", "ibi": "0.7", "collection_duration": "210"}

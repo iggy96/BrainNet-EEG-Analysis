@@ -1,0 +1,20 @@
+One File
+std = 88
+dev = 14
+con pairs = 12
+inc pairs = 12
+25 rows per file
+
+std, dev, con, inc = 1, 2, 4, 5
+Total Files
+stimuli = stimuli count x three files
+std = 88 x 3 = 264
+dev = 14 x 3 = 42
+con pairs = 12 x 3 = 36
+inc pairs = 12 x 3 = 36
+
+
+{"file 1": "..\\assets\\txt\\chn_1.txt", "file 2": "..\\assets\\txt\\chn_2.txt", "file 3": "..\\assets\\txt\\chn_3.txt", "time": "03:35", "tone_duration": "0.4", "isi_tone": "0.2", "word_duration": "1.0", "isi_word": "0.5", "ibi": "0.7", "collection_duration": "210"}
+
+tone,ISIT,tone,ISIT,tone,ISIT,tone,ISIT,GAP,word,ISIW,word,ISIW,IBI
+GAP=0.5s 
